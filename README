@@ -1,1 +1,9 @@
 Day 1: Set up FastAPI backend with SQLite database and inventory APIs. Verified functionality via Swagger UI and pushed to GitHub.
+
+### Day 2
+- Implemented Orders API using FastAPI
+- Created order placement functionality with database persistence
+- Linked orders with inventory to automatically reduce stock on order creation
+- Added validation for insufficient inventory and missing items
+- Tested complete supply chain flow using Swagger UI
+- Verified inventory updates after successful order placement
